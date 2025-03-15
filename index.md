@@ -15,11 +15,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 My attempt at creating a Home Lab using VirtualBox to simulate a malware attack. Wireshark was used to analyse the traffic being sent
 ![Network Attack Simulation](networkattack.png)
 
-## Header 2
+# Project 2 - Threat Intelligence Feed
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Created a Security Information and Event Manager (SIEM) using Microsoft Sentinel. This incident detector will be alerted whenever a user logs in every 5 minutes
 
 ### Header 3
 
