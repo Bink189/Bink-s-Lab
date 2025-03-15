@@ -18,6 +18,7 @@ My attempt at creating a Home Lab using VirtualBox to simulate a malware attack.
 # Project 2 - Threat Intelligence Feed
 
 Created a Security Information and Event Manager (SIEM) using Microsoft Sentinel. This incident detector will be alerted whenever a user logs in every 5 minutes
+![Threat Intelligence Feed](incidentreport.png)
 
 ### Header 3
 
