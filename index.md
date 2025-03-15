@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1 - Cybersecurity Home Lab
 
 My attempt at creating a Home Lab using VirtualBox to simulate a malware attack. Wireshark was used to analyse the traffic being sent
+![Network Attack Simulation](networkattack.png)
 
 ## Header 2
 
