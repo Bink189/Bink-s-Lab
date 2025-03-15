@@ -20,22 +20,10 @@ My attempt at creating a Home Lab using VirtualBox to simulate a malware attack.
 Created a Security Information and Event Manager (SIEM) using Microsoft Sentinel. This incident detector will be alerted whenever a user logs in every 5 minutes
 ![Threat Intelligence Feed](incidentreport.png)
 
-### Header 3
+# Project 3- Information Gathering
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Using Python scripting and Linux, I was able to call nMap functions to monitor information coming from ports
+![Port Scan](portscanner.png) 
 
 #### Header 4
 
